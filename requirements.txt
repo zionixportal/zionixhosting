@@ -1,0 +1,7 @@
+aiogram
+aiohttp
+flask
+psutil
+pytelegrambotapi
+python-dotenv
+requests
